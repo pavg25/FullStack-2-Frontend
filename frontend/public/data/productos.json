@@ -1,0 +1,34 @@
+{
+    "productos": [
+        {
+        "id": 1,
+        "nombre": "Mouse inhalambrico",
+        "precio": 10000,
+        "descripcion": "Mouse de alta calidad"
+        },
+        {
+        "id": 2,
+        "nombre": "Teclado inhalambrico",
+        "precio": 20000,
+        "descripcion": "Teclado de alta calidad"
+        },
+        {
+        "id": 3,
+        "nombre": "Audifonos Gamer",
+        "precio": 30000,
+        "descripcion": "Audifonos de alta calidad"
+        },
+        {
+        "id": 4,
+        "nombre": "Pantallas LCD",
+        "precio": 100000,
+        "descripcion": "Pantallas de alta calidad"
+        },
+        {
+        "id": 5,
+        "nombre": "Gabinetes",
+        "precio": 50000,
+        "descripcion": "Gabinetes de alta calidad"
+        }
+    ]
+}
